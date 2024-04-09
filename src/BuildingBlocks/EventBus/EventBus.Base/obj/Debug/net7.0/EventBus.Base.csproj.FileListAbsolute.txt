@@ -1,0 +1,12 @@
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/bin/Debug/net7.0/EventBus.Base.deps.json
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/bin/Debug/net7.0/EventBus.Base.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/bin/Debug/net7.0/EventBus.Base.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/EventBus.Base.csproj.AssemblyReference.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/EventBus.Base.AssemblyInfoInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/EventBus.Base.AssemblyInfo.cs
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/EventBus.Base.csproj.CoreCompileInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/EventBus.Base.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/refint/EventBus.Base.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/EventBus.Base.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Base/obj/Debug/net7.0/ref/EventBus.Base.dll

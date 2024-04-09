@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqpEzVB/X9IoAr6QhK50GThcpQ2tiPQzcWwgu89GdJkGvPJcWrgWUp5A6QZuc90nB4Q4n9cmn64r8VSxmGAxog==",
+  "success": true,
+  "projectFilePath": "/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.Factory/EventBus.Factory.csproj",
+  "expectedPackageFiles": [
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

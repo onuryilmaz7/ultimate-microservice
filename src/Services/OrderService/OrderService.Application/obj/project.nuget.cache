@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0GiBY8PTVgMIpq4jxpyonGEUHj27sYB4xZj1n6ifDm0/k2ZEhdGJK7CQtE3gPgUOK3aHG9r+hKJabi2/Xm6sQ==",
+  "success": true,
+  "projectFilePath": "/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Application/OrderService.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

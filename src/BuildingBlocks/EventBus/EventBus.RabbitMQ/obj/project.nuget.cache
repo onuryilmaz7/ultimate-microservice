@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgekSKFW49TjPf1VjQBTsqaJiS1Ve1bQAne9+94KBJSfeiU/OuI55nxeMJirdmhYOMWp0T46HGN7+jHTTGugIA==",
+  "success": true,
+  "projectFilePath": "/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/EventBus.RabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

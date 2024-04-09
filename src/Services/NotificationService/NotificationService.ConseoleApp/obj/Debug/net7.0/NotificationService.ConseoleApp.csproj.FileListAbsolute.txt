@@ -1,0 +1,14 @@
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/bin/Debug/net7.0/NotificationService.ConseoleApp
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/bin/Debug/net7.0/NotificationService.ConseoleApp.deps.json
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/bin/Debug/net7.0/NotificationService.ConseoleApp.runtimeconfig.json
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/bin/Debug/net7.0/NotificationService.ConseoleApp.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/bin/Debug/net7.0/NotificationService.ConseoleApp.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/NotificationService.ConseoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/NotificationService.ConseoleApp.AssemblyInfoInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/NotificationService.ConseoleApp.AssemblyInfo.cs
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/NotificationService.ConseoleApp.csproj.CoreCompileInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/NotificationService.ConseoleApp.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/refint/NotificationService.ConseoleApp.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/NotificationService.ConseoleApp.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/NotificationService.ConseoleApp.genruntimeconfig.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/NotificationService/NotificationService.ConseoleApp/obj/Debug/net7.0/ref/NotificationService.ConseoleApp.dll

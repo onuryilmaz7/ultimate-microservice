@@ -1,0 +1,12 @@
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/bin/Debug/net7.0/EventBus.RabbitMQ.deps.json
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/bin/Debug/net7.0/EventBus.RabbitMQ.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/bin/Debug/net7.0/EventBus.RabbitMQ.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/EventBus.RabbitMQ.csproj.AssemblyReference.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/EventBus.RabbitMQ.AssemblyInfoInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/EventBus.RabbitMQ.AssemblyInfo.cs
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/EventBus.RabbitMQ.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/refint/EventBus.RabbitMQ.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/EventBus.RabbitMQ.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.RabbitMQ/obj/Debug/net7.0/ref/EventBus.RabbitMQ.dll

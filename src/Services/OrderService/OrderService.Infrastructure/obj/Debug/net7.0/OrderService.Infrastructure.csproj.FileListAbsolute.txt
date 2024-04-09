@@ -1,0 +1,12 @@
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/bin/Debug/net7.0/OrderService.Infrastructure.deps.json
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/bin/Debug/net7.0/OrderService.Infrastructure.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/bin/Debug/net7.0/OrderService.Infrastructure.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/OrderService.Infrastructure.csproj.AssemblyReference.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/OrderService.Infrastructure.AssemblyInfoInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/OrderService.Infrastructure.AssemblyInfo.cs
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/OrderService.Infrastructure.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/refint/OrderService.Infrastructure.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/OrderService.Infrastructure.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/Services/OrderService/OrderService.Infrastructure/obj/Debug/net7.0/ref/OrderService.Infrastructure.dll

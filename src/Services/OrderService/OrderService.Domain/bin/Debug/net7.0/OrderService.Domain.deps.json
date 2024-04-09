@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OrderService.Domain/1.0.0": {
+        "runtime": {
+          "OrderService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

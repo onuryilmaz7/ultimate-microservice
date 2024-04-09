@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DV8Ar+/lLUze2MCaelP0huY4MTzVIStKBe5uwLeein0=",
+  "Source": "IdentityService.Api",
+  "BasePath": "_content/IdentityService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

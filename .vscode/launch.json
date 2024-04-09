@@ -1,0 +1,39 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+            {
+                "name": "BlazorWebApp",
+                "type": "blazorwasm",
+                "request": "launch",
+                "preLaunchTask": "build",
+                "hosted": true,
+                "program": "${workspaceFolder}/src/Clients/WebClients/BlazorWebApp/bin/Debug/net7.0/BlazorWebApp.dll",
+                "cwd": "${workspaceFolder}/src/Clients/WebClients/BlazorWebApp",
+                
+        },
+        {
+            "name": "WebClientGateway",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/ApiGateways/WebClientApiGateways/Web.ApiGateway/bin/Debug/net7.0/Web.ApiGateway.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/src/ApiGateways/WebClientApiGateways/Web.ApiGateway",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Web.ApiGateway/Views"
+            }
+        },
+        
+
+    ]
+}

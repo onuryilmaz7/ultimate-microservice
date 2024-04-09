@@ -1,0 +1,12 @@
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/bin/Debug/net7.0/EventBus.AzureServiceBus.deps.json
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/bin/Debug/net7.0/EventBus.AzureServiceBus.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/bin/Debug/net7.0/EventBus.AzureServiceBus.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/EventBus.AzureServiceBus.csproj.AssemblyReference.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/EventBus.AzureServiceBus.AssemblyInfoInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/EventBus.AzureServiceBus.AssemblyInfo.cs
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/EventBus.AzureServiceBus.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/refint/EventBus.AzureServiceBus.dll
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/EventBus.AzureServiceBus.pdb
+/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/obj/Debug/net7.0/ref/EventBus.AzureServiceBus.dll

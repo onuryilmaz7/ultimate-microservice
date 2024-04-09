@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NotificationService.ConseoleApp/1.0.0": {
+        "runtime": {
+          "NotificationService.ConseoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotificationService.ConseoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
