@@ -1,13 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "BPRaEVgqlMV96YaXBGBI9tYLzFvY8lkX0EjVz36zp0S70feSWA9vpe2qxQelI6iL8PVb19uUXW6d1yz8n7aoAA==",
+  "dgSpecHash": "k6+mAmqjUqY3Q4HvcoNJxekdAD0v5LrGZhDh2EuF6UR0eQqJqHYW7TscSk8uwFhkHHe/wnmQVUeezdlCoZ7Qig==",
   "success": true,
   "projectFilePath": "/Users/onur.yilmaz/Projects/ultimate-microservice/src/BuildingBlocks/EventBus/EventBus.AzureServiceBus/EventBus.AzureServiceBus.csproj",
   "expectedPackageFiles": [
     "/Users/onur.yilmaz/.nuget/packages/microsoft.azure.amqp/2.4.11/microsoft.azure.amqp.2.4.11.nupkg.sha512",
     "/Users/onur.yilmaz/.nuget/packages/microsoft.azure.servicebus/5.2.0/microsoft.azure.servicebus.5.2.0.nupkg.sha512",
     "/Users/onur.yilmaz/.nuget/packages/microsoft.azure.services.appauthentication/1.0.3/microsoft.azure.services.appauthentication.1.0.3.nupkg.sha512",
-    "/Users/onur.yilmaz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/onur.yilmaz/.nuget/packages/microsoft.identitymodel.clients.activedirectory/3.14.2/microsoft.identitymodel.clients.activedirectory.3.14.2.nupkg.sha512",
     "/Users/onur.yilmaz/.nuget/packages/microsoft.identitymodel.jsonwebtokens/5.4.0/microsoft.identitymodel.jsonwebtokens.5.4.0.nupkg.sha512",
     "/Users/onur.yilmaz/.nuget/packages/microsoft.identitymodel.logging/5.4.0/microsoft.identitymodel.logging.5.4.0.nupkg.sha512",
@@ -102,8 +107,8 @@
     "/Users/onur.yilmaz/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/onur.yilmaz/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/onur.yilmaz/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "/Users/onur.yilmaz/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/onur.yilmaz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/onur.yilmaz/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

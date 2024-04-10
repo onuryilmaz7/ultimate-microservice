@@ -46,6 +46,10 @@
             "Microsoft.Azure.ServiceBus": {
               "target": "Package",
               "version": "[5.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [

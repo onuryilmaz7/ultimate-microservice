@@ -40,6 +40,7 @@ public class BaseEventBus : IEventBus
     public virtual void Dispose()
     {
         EventBusConfig = null;
+        SubsManager.Clear();
     }
 
     public async Task<bool> ProcessEventAsync(string eventName, string message)
