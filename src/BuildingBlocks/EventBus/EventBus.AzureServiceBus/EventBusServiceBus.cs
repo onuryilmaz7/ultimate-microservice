@@ -98,6 +98,7 @@ public class EventBusServiceBus : BaseEventBus
     {
         base.Dispose();
 
+
         _topicClient?.CloseAsync().GetAwaiter().GetResult();
         _managementClient?.CloseAsync().GetAwaiter().GetResult();
 
