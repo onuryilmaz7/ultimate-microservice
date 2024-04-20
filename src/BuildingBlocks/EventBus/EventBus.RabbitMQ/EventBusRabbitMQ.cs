@@ -154,7 +154,6 @@ public class EventBusRabbitMQ : BaseEventBus
 
         _consumerChannel.BasicAck(e.DeliveryTag, multiple: false);
 
-        throw new NotImplementedException();
     }
 
     private void OnSubsManager_OnEventRemoved(object? sender, string eventName)

@@ -1,5 +1,6 @@
 using EventBus.AzureServiceBus;
 using EventBus.Base;
+using EventBus.Base.Abstraction;
 
 public static class EventBusFactory
 {

@@ -54,7 +54,6 @@ public class InMemoryEventBusSubscriptionManager : IEventBusSubscriptionManager
     public void RemoveSubscription<T, TH>() where T : IntegrationEvent where TH : IIntegrationEventHandler<T>
     {
         var handlerToRemove = FindSubscriptionToRemove<T, TH>();
-        throw new NotImplementedException();
     }
 
     private SubscribtionInfo? FindSubscriptionToRemove<T, TH>() where T : IntegrationEvent where TH : IIntegrationEventHandler<T>
